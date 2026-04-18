@@ -25,4 +25,8 @@ As fontes estao referenciadas em `public/assets/css/style.css`:
 - `public/assets/fonts/wuerth-book.woff2` ou `.woff`
 - `public/assets/fonts/wuerth-bold.woff2` ou `.woff`
 
+<<<<<<< HEAD
 Se os arquivos nao estiverem presentes, o navegador usara fallback sem quebrar o layout.
+=======
+Se os arquivos nao estiverem presentes, o navegador usara fallback sem quebrar o layout.
+>>>>>>> 995c0da37c062d5a801e1431808f42d27e15831b
